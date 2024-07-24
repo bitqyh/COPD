@@ -4,7 +4,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import torch
 import torch.nn.functional as F
-from net import vgg16
+from net import resnet18
 test_pth=r'E:\xiangmu\VGGNet\train\cat\cat.1.jpg'#设置可以检测的图像
 test=Image.open(test_pth)
 '''处理图片'''
@@ -12,7 +12,7 @@ transform=transforms.Compose([transforms.Resize((224,224)),transforms.ToTensor()
 image=transform(test)
 '''加载网络'''
 device=torch.device("cuda" if torch.cuda.is_available() else "cpu")#CPU与GPU的选择
-net =vgg16()#输入网络
+net = resnet18()  #输入网络
 model=torch.load(r"E:\xiangmu\VGGNet\road surface identification.13.pth",map_location=device)#已训练完成的结果权重输入
 net.load_state_dict(model)#模型导入
 net.eval()#设置为推测模式

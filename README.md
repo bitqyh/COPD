@@ -1,4 +1,4 @@
-- zh_CN [¼òÌåÖÐÎÄ](Readme/README_CN.md)
+- zh_CN [ç®€ä½“ä¸­æ–‡](Readme/README_CN.md)
 - EN [English](Readme/README_EN.md)
 
 # COPD Detection Project

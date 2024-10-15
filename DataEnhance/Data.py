@@ -126,17 +126,7 @@ class DataGenerator(data.Dataset):
 
         image_data = np.array(image, np.float32)
 
-        #色域扭曲
-        hue=self.rand(-hue,hue)
-        sat=self.rand(1,sat) if self.rand()<.5 else 1/self.rand(1,sat)
-        val=self.rand(1,val) if self.rand()<.5 else 1/self.rand(1,val)
-        x=cv2.cvtColor(np.array(image,np.float32)/255,cv2.COLOR_RGB2HSV)#颜色空间转换
-        x[...,1]*=sat
-        x[...,2]*=val
-        x[x[:,:,0]>360,0]=360
-        x[:,:,1:][x[:,:,1:]>1]=1
-        x[x<0]=0
-        image_data=cv2.cvtColor(x,cv2.COLOR_HSV2RGB)*255 #颜色空间转换
+
 
 
         return image_data

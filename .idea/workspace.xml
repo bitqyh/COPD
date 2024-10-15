@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="230a3ca2-d8bb-47a1-a40f-a13e3d379de8" name="更改" comment="frist">
+      <change afterPath="$PROJECT_DIR$/Photo/CT4375444_.60192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Photo/CT4375444_.60192_med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Photo/CT5533484_15.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/_2024_7_25_12_32____.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2024_7_25_上午12_32_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEnhance/Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataEnhance/Data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photo/CT5497446_.11164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photo/CT5497446_.14838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photo/CT5497446_.21320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Photo/CT5560416_.503721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme/README_CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme/README_CN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme/README_EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme/README_EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cutoff.py" beforeDir="false" afterPath="$PROJECT_DIR$/cutoff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,45 +64,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Combin_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Combine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Delect-dir.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Delect_dir (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.RD.executor&quot;: &quot;Run&quot;,
-    &quot;Python.label.executor&quot;: &quot;Run&quot;,
-    &quot;Python.labeltest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oversampling.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;SQL 插入&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;SQL 插入&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;temp&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/桌面/COPD/resnet18/Test&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Combin_test.executor": "Run",
+    "Python.Combine.executor": "Run",
+    "Python.Count (1).executor": "Run",
+    "Python.Delect-dir.executor": "Run",
+    "Python.Delect_dir (1).executor": "Run",
+    "Python.RD.executor": "Run",
+    "Python.label.executor": "Run",
+    "Python.labeltest.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.oversampling.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "database.data.extractors.current.export.id": "SQL 插入",
+    "database.data.extractors.current.id": "SQL 插入",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/桌面/COPD/resnet18/Test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\桌面\COPD\resnet18\Test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\桌面\COPD\resnet18\Photo" />
       <recent name="E:\桌面\COPD\resnet18\Readme" />
       <recent name="E:\桌面\COPD\resnet18\PTH" />
       <recent name="E:\桌面\COPD\resnet18\Self-Adaption" />
       <recent name="E:\桌面\COPD\resnet18" />
-      <recent name="E:\桌面\COPD\resnet18\DataEnhance" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
@@ -323,7 +336,7 @@
       <workItem from="1728827407015" duration="4604000" />
       <workItem from="1728913910076" duration="5160000" />
       <workItem from="1728981499070" duration="1527000" />
-      <workItem from="1728995377915" duration="390000" />
+      <workItem from="1728995377915" duration="5860000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -415,7 +428,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

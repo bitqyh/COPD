@@ -15,6 +15,15 @@ This helps in better and faster identification of the presence of cases, providi
 
 The dataset comes from the First Affiliated Hospital of Wenzhou Medical University, containing DICOM data of COPD, including four categories of cases with different degrees of normal and COPD.
 
+## Project Results
+- The final model trained by the project
+- `The accuracy of binary classification on the test set is 0.84, and the F1 value is 0.83`
+- `The accuracy of multi-classification on the test set is 0.63`  
+F1 value as shown in the figure:
+![F1值](/Photo/F1_img.png)
+Confusion matrix:  
+<img src="/Photo/Confusion_matrix.png" width="600" height="600">
+
 ## Installation
 
 1. Create and activate a virtual environment:

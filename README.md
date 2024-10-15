@@ -1,5 +1,5 @@
-- zh\_CN [简体中文](readme/README\_CN.md)
-- EN [English](readme/README\_EN.md)
+- zh_CN [简体中文](Readme/README_CN.md)
+- EN [English](Readme/README_EN.md)
 
 # COPD Detection Project
 
@@ -33,27 +33,27 @@ The dataset comes from the First Affiliated Hospital of Wenzhou Medical Universi
 ### Data Preprocessing
 
 #### Export Images:
-The project data is divided into two folders: Lung and Health, which store the DICOM datasets of COPD and normal cases, respectively.
+      The project data is divided into two folders: Lung and Health, which store the DICOM datasets of COPD and normal cases, respectively.
 
 #### Initial Processing:
-Run `Dataset.py` to convert the DICOM files in the folders to JPG format images.
+      Run `Dataset.py` to convert the DICOM files in the folders to JPG format images.
 Example:
    <img src="Photo/CT4375444_.60192.jpg" width="300" height="300" />
 
-The images are then classified into folders by patient. Adjust the lung window and mediastinal window using the `extract_mediastinal_window` function to replace the `extract_lung_window` function to get the adjusted lung images.
+      The images are then classified into folders by patient. Adjust the lung window and mediastinal window using the `extract_mediastinal_window` function to replace the `extract_lung_window` function to get the adjusted lung images.
 Example:
    <img src="Photo/CT4375444_.60192_med.jpg" width="300" height="300" />
 
-Run `cutoff.py` to crop and perform morphological processing on the images to get the cropped images.
+      Run `cutoff.py` to crop and perform morphological processing on the images to get the cropped images.
 
 #### Remove Interference Information:
-Run `DeletePhoto.py` to slightly crop the images and use the region growing algorithm to remove non-lung interference information in the images. Perform Gaussian denoising and dilation and erosion operations to obtain images that only retain lung information. (After processing, the images should be grayscale images with only black (0,0,0) and white (255,255,255) pixels.)
-Filter the corresponding images with fewer white pixels after processing.
+      Run `DeletePhoto.py` to slightly crop the images and use the region growing algorithm to remove non-lung interference information in the images. Perform Gaussian denoising and dilation and erosion operations to obtain images that only retain lung information. (After processing, the images should be grayscale images with only black (0,0,0) and white (255,255,255) pixels.)
+      Filter the corresponding images with fewer white pixels after processing.
 Example:
    <img src="Photo/CT5503417_.210092.jpg" width="300" height="300" />
 
 #### Final Processing:
-Run the `Combine.py` file to stack grayscale images into three-channel images as the final training images.
+      Run the `Combine.py` file to stack grayscale images into three-channel images as the final training images.
 Example:
    <img src="Photo/CT5533484_15.jpg" width="300" height="300" />
 

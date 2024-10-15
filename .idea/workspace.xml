@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="230a3ca2-d8bb-47a1-a40f-a13e3d379de8" name="更改" comment="frist">
-      <change afterPath="$PROJECT_DIR$/Photo/CT4375444_.60192.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photo/CT4375444_.60192_med.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Photo/CT5533484_15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2024_7_25_12_32____.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2024_7_25_上午12_32_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataEnhance/Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataEnhance/Data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photo/CT5497446_.11164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photo/CT5497446_.14838.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photo/CT5497446_.21320.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Photo/CT5560416_.503721.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme/README_CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme/README_CN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme/README_EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme/README_EN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cutoff.py" beforeDir="false" afterPath="$PROJECT_DIR$/cutoff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" />
-    </list>
+    <list default="true" id="230a3ca2-d8bb-47a1-a40f-a13e3d379de8" name="更改" comment="frist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -336,7 +317,7 @@
       <workItem from="1728827407015" duration="4604000" />
       <workItem from="1728913910076" duration="5160000" />
       <workItem from="1728981499070" duration="1527000" />
-      <workItem from="1728995377915" duration="5860000" />
+      <workItem from="1728995377915" duration="6174000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -402,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728991182068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="frist">
+      <option name="closed" value="true" />
+      <created>1729001676554</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729001676554</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -59,7 +59,7 @@
 例：
    <img src="../Photo/CT5533484_15.jpg" width ="300" heigth ="300">
 
-### 训练模型：
+## 训练模型：
 1. 划分数据集：
     ```bash
     python label.py

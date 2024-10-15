@@ -55,7 +55,7 @@ Example:
 Example:
    <img src="../Photo/CT5533484_15.jpg" width="300" height="300" />
 
-### Train the Model
+## Train the Model
 
 1. Split the dataset:
     ```bash

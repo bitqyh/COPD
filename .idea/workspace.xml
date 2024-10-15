@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="230a3ca2-d8bb-47a1-a40f-a13e3d379de8" name="更改" comment="frist">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2024_7_25_12_32____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2024_7_25_上午12_32_取消提交了更改_[更改]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bitqyh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:bitqyh/COPD.git",
+    "accountId": "88fd5cfd-9058-4103-9e40-c437288f55bd"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jhTplJQrt1GGMohMq10F5gIYhD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Combin_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Combine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Delect-dir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Delect_dir (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.RD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.label.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labeltest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oversampling.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;SQL 插入&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;SQL 插入&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;temp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/桌面/COPD/resnet18/Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\桌面\COPD\resnet18\Test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\桌面\COPD\resnet18\Readme" />
+      <recent name="E:\桌面\COPD\resnet18\PTH" />
+      <recent name="E:\桌面\COPD\resnet18\Self-Adaption" />
+      <recent name="E:\桌面\COPD\resnet18" />
+      <recent name="E:\桌面\COPD\resnet18\DataEnhance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Count (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="resnet18" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Delect_dir (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="resnet18" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Delect_dir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Divide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="resnet18" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\桌面\COPD\resnet18\Divide.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="label" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="resnet18" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/label.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="resnet18" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Divide" />
+        <item itemvalue="Python.label" />
+        <item itemvalue="Python.Count (1)" />
+        <item itemvalue="Python.Delect_dir (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="230a3ca2-d8bb-47a1-a40f-a13e3d379de8" name="更改" comment="" />
+      <created>1721838497514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721838497514</updated>
+      <workItem from="1721838498640" duration="6014000" />
+      <workItem from="1721844786288" duration="5949000" />
+      <workItem from="1721885382203" duration="9618000" />
+      <workItem from="1721922192233" duration="3800000" />
+      <workItem from="1721984014086" duration="3380000" />
+      <workItem from="1722009923507" duration="8604000" />
+      <workItem from="1722087948736" duration="5292000" />
+      <workItem from="1722100237920" duration="2676000" />
+      <workItem from="1722165715232" duration="5365000" />
+      <workItem from="1722260560292" duration="1117000" />
+      <workItem from="1722271546795" duration="12109000" />
+      <workItem from="1722357920454" duration="3548000" />
+      <workItem from="1722456659021" duration="3948000" />
+      <workItem from="1722501924882" duration="2677000" />
+      <workItem from="1722536179642" duration="697000" />
+      <workItem from="1722620562644" duration="2649000" />
+      <workItem from="1722665492908" duration="3777000" />
+      <workItem from="1722702905283" duration="2153000" />
+      <workItem from="1722882115710" duration="844000" />
+      <workItem from="1722967004879" duration="988000" />
+      <workItem from="1723097455752" duration="13321000" />
+      <workItem from="1723111234080" duration="17091000" />
+      <workItem from="1723271867853" duration="601000" />
+      <workItem from="1723304374288" duration="2028000" />
+      <workItem from="1723399663763" duration="2899000" />
+      <workItem from="1723479182866" duration="1532000" />
+      <workItem from="1723570017722" duration="1491000" />
+      <workItem from="1723658376611" duration="1591000" />
+      <workItem from="1723733483036" duration="3731000" />
+      <workItem from="1725537553100" duration="1677000" />
+      <workItem from="1725686174781" duration="468000" />
+      <workItem from="1725686703638" duration="1566000" />
+      <workItem from="1725694968270" duration="731000" />
+      <workItem from="1725770651940" duration="11425000" />
+      <workItem from="1725810869597" duration="1148000" />
+      <workItem from="1725894945833" duration="2927000" />
+      <workItem from="1725977549808" duration="2268000" />
+      <workItem from="1725980322437" duration="1980000" />
+      <workItem from="1726033303197" duration="1667000" />
+      <workItem from="1726034997688" duration="1483000" />
+      <workItem from="1726044109955" duration="3000" />
+      <workItem from="1726098874123" duration="575000" />
+      <workItem from="1726142820892" duration="374000" />
+      <workItem from="1726153376018" duration="4676000" />
+      <workItem from="1726241509757" duration="295000" />
+      <workItem from="1726295460548" duration="10076000" />
+      <workItem from="1726327310799" duration="1478000" />
+      <workItem from="1726370641290" duration="2284000" />
+      <workItem from="1726375835966" duration="642000" />
+      <workItem from="1726379837961" duration="3418000" />
+      <workItem from="1726383310850" duration="3796000" />
+      <workItem from="1726388209843" duration="3058000" />
+      <workItem from="1726391319915" duration="1442000" />
+      <workItem from="1726413309911" duration="2524000" />
+      <workItem from="1726463630774" duration="2788000" />
+      <workItem from="1726499292617" duration="3068000" />
+      <workItem from="1726586311331" duration="835000" />
+      <workItem from="1726671996781" duration="1077000" />
+      <workItem from="1726744665986" duration="1413000" />
+      <workItem from="1726758356038" duration="3255000" />
+      <workItem from="1726845501306" duration="1518000" />
+      <workItem from="1726888407782" duration="820000" />
+      <workItem from="1726926793766" duration="7000" />
+      <workItem from="1726933350769" duration="3466000" />
+      <workItem from="1726973695502" duration="1444000" />
+      <workItem from="1726986695290" duration="2201000" />
+      <workItem from="1727020041783" duration="1896000" />
+      <workItem from="1727071983910" duration="802000" />
+      <workItem from="1727104856527" duration="2229000" />
+      <workItem from="1727189281591" duration="1413000" />
+      <workItem from="1727191486899" duration="736000" />
+      <workItem from="1727271109852" duration="3351000" />
+      <workItem from="1727344771275" duration="52000" />
+      <workItem from="1727363938881" duration="1722000" />
+      <workItem from="1727451081662" duration="1855000" />
+      <workItem from="1727568272001" duration="594000" />
+      <workItem from="1727712537094" duration="1394000" />
+      <workItem from="1727747264893" duration="3692000" />
+      <workItem from="1727803185074" duration="1318000" />
+      <workItem from="1728135788516" duration="2329000" />
+      <workItem from="1728238924382" duration="1378000" />
+      <workItem from="1728542139944" duration="804000" />
+      <workItem from="1728558925767" duration="846000" />
+      <workItem from="1728657532472" duration="3995000" />
+      <workItem from="1728706419069" duration="2120000" />
+      <workItem from="1728748505223" duration="2938000" />
+      <workItem from="1728827407015" duration="4604000" />
+      <workItem from="1728913910076" duration="5160000" />
+      <workItem from="1728981499070" duration="1527000" />
+      <workItem from="1728995377915" duration="390000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1721838676631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721838676631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;cls_CT.txt&#10;#&#9;cls_num_test.txt&#10;#&#9;cls_num_train.txt&#10;#&#9;cls_num_val.txt&#10;#&#9;label.py&#10;#&#9;main.py">
+      <option name="closed" value="true" />
+      <created>1721845022213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721845022213</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;cls_CT.txt&#10;#&#9;cls_num_test.txt&#10;#&#9;cls_num_train.txt&#10;#&#9;cls_num_val.txt&#10;#&#9;label.py&#10;#&#9;main.py">
+      <option name="closed" value="true" />
+      <created>1728828307333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728828307333</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;cls_CT.txt&#10;#&#9;cls_num_test.txt&#10;#&#9;cls_num_train.txt&#10;#&#9;cls_num_val.txt&#10;#&#9;label.py&#10;#&#9;main.py">
+      <option name="closed" value="true" />
+      <created>1728981509073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728981509073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="frist">
+      <option name="closed" value="true" />
+      <created>1728987267171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728987267171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="frist">
+      <option name="closed" value="true" />
+      <created>1728987337191</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728987337191</updated>
+    </task>
+    <task id="LOCAL-00007" summary="frist">
+      <option name="closed" value="true" />
+      <created>1728988263099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728988263099</updated>
+    </task>
+    <task id="LOCAL-00008" summary="frist">
+      <option name="closed" value="true" />
+      <created>1728991182068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728991182068</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;cls_CT.txt&#10;#&#9;cls_num_test.txt&#10;#&#9;cls_num_train.txt&#10;#&#9;cls_num_val.txt&#10;#&#9;label.py&#10;#&#9;main.py" />
+    <MESSAGE value="frist" />
+    <option name="LAST_COMMIT_MESSAGE" value="frist" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/resnet18$oversampling.coverage" NAME="oversampling 覆盖结果" MODIFIED="1723822159795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$Combine.coverage" NAME="Combine 覆盖结果" MODIFIED="1723733504958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$Delect_dir.coverage" NAME="Delect-dir 覆盖结果" MODIFIED="1726099040494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$Delect_dir__1_.coverage" NAME="Delect_dir (1) 覆盖结果" MODIFIED="1728662284042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$Count__1_.coverage" NAME="Count (1) 覆盖结果" MODIFIED="1728707060570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$RD.coverage" NAME="RD 覆盖结果" MODIFIED="1728831910661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$Combin_test.coverage" NAME="Combin_test 覆盖结果" MODIFIED="1725895534274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$labeltest.coverage" NAME="labeltest 覆盖结果" MODIFIED="1721888406971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$label.coverage" NAME="label 覆盖结果" MODIFIED="1728831858305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resnet18$main.coverage" NAME="main 覆盖结果" MODIFIED="1728918514288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
